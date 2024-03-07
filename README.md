@@ -17,3 +17,8 @@ sudo ./download_kitti_and_convert_to_bag.sh
 ```
 
 That's it! Please make sure you have enough available space on the disk (about 300GB for all the KITTI raw data and the bag files) before you run it. :)
+
+#### Thanks to
+- [KITTI](https://www.cvlibs.net/datasets/kitti)
+- Omid Hosseini for his [raw dataset download script](https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data_downloader.zip)
+- Tomas Krejci for his [kitti2bag tool](https://github.com/tomas789/kitti2bag)
